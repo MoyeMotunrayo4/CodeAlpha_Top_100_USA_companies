@@ -3,7 +3,10 @@ EDA and dashboard of the top 100 public companies in the USA by revenue using Ph
 
 This Power BI project provides a detailed analysis of the **top 100 public companies in the United States**, focusing on revenue, industry performance, and geographic distribution.
 
-![Dashboard Preview](67cbfa92-030e-455d-bafd-46cdf2b75ed5.png)
+![Screenshots](Dashboard.png)
+  ![image](Dashboard1.png) 
+![Dashboard](Screenshot 2025-05-07 095108.png)
+
 
 ---
 
