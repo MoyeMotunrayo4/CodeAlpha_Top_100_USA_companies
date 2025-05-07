@@ -45,10 +45,10 @@ The interactive dashboard includes:
 ## 📂 Project Files
 
 📁 public-companies-analysis
-├── Top100_Companies_Dashboard.pbix # Power BI dashboard
-├── Cleaned_Data.csv # Processed dataset
-├── 67cbfa92-030e-455d-bafd...ed5.png # Dashboard image
-├── README.md # Project documentation
+* Top100_Companies_Dashboard.pbix # Power BI dashboard
+* Cleaned_Data.csv # Processed dataset
+* 67cbfa92-030e-455d-bafd...ed5.png # Dashboard image
+*  README.md # Project documentation
 
 
 ---
