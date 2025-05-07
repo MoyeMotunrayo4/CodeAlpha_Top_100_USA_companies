@@ -19,7 +19,7 @@ The interactive dashboard includes:
 
 ## 📁 Dataset Details
 
-- **Source**: (Wikipedia)
+- **Source**: (Wikipedia): The dataset used for this analysis is the "CompaniesinUSA.csv" file 
 - **Format**: CSV
 - **Columns Include**: Company, Revenue, Revenue Growth, Industry, Headquaters, Employees.
 
@@ -32,13 +32,29 @@ The interactive dashboard includes:
 - 📉 **Chemical** and **Petroleum** industries are experiencing negative growth.
 - 🗺️ Industries are distributed across states like California, Texas, and New York.
 
+---------
+
+📌 Key Visualizations
+
+    Top 10 Cities by Total Revenue
+    A bar chart showing the cities with the highest cumulative company revenue.
+
+    Top 5 Industries by Avg Revenue Growth
+    Industries showing the strongest year-over-year revenue increases.
+
+    Bottom 5 Industries by Avg Revenue Growth
+    Industries with declining or minimal revenue growth.
+
+    Count of Industries by State
+    A map visualization showing industry counts across the United States.
+
 ---
 
 ## 🧰 Tools Used
 
-- **Power BI** – Data modeling and visualization
+- **Power BI** – Analysing and Visualization [Download here]
 - **Python** – Extraction and Data cleaning
-- **GitHub** – portfolio hosting
+
 
 ---
 
