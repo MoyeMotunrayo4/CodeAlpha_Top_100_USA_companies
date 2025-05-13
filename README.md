@@ -78,9 +78,8 @@ This project provides a detailed analysis of the **top 100 public companies in t
 ## 📂 Project Files
 
 📁 public-companies-analysis
-* 🔗 [View My Dashboard](https://your-dashboard-link.com)
+* 🔗[Click here to view/download my dashboard](./Top_100_company_dashboard.pbix)
 * Cleaned_Data.csv # Processed dataset
-* 
 *  README.md # Project documentation
 
 
