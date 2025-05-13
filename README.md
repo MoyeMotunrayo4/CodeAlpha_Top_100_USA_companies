@@ -21,10 +21,11 @@ This project provides a detailed analysis of the **top 100 public companies in t
 
 ## 🧠 Key Insights
 
-- 🏙️ **Texas** and **New York** lead in total company revenue.
-- 📈 **Financials** and **Retail** industries show the strongest revenue growth.
-- 📉 **Food Industry** and **Infotech** industries are experiencing negative growth.
-- 🗺️ Industries are distributed across states like Texas, New York, California, Washington etc.
+-  **Texas** and **New York** lead in total company revenue.
+-  **Financials** and **Retail** industries show the strongest revenue growth.
+-  **Food Industry** and **Infotech** industries are experiencing negative growth.
+-    Industries are distributed across states like **Texas**, **New York**, **California**, **Washington** etc.
+-    A geographic spread of industry locations, mainly concentrated in **North America**, with a few points in **Europe**.
 
 ---------
 
@@ -47,6 +48,7 @@ This project provides a detailed analysis of the **top 100 public companies in t
 
 
    📌 Key Visualizations
+    
     Total Revenue by State 
     A bar chart showing the top Performing states by total revenue.
 
@@ -78,7 +80,7 @@ This project provides a detailed analysis of the **top 100 public companies in t
 ## 📂 Project Files
 
 📁 public-companies-analysis
-* 🔗[Click here to view/download my dashboard](./Top_100_company_dashboard.pbix)
+* 🔗[Click here to view/download my dashboard](./Top_100_company_dashboard.png)
 * Cleaned_Data.csv # Processed dataset
 *  README.md # Project documentation
 
