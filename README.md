@@ -20,7 +20,7 @@ EDA and dashboard of the top 100 public companies in the USA by revenue using Ph
 
 -  **Texas** and **New York** lead in total company revenue.
 -  **Financials** and **Technology** industries show the strongest revenue growth.
--  **Food Industry** and **Infotech** industries are experiencing negative growth.
+-  **Chemical Industry** and **Energy Trading** industries are experiencing negative growth.
 -    Industries are distributed across states like **Texas**, **New York**, **California**, **Washington** etc.
 -    A geographic spread of industry locations, mainly concentrated in **North America**, with a few points in **Europe**.
 -    **Nvidia** stands out with exceptionally high revenue growth compared to others like **Goldman Sachs**, **Citigroup**, and **JP Morgan Chase**.
