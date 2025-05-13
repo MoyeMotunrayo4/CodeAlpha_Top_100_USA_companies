@@ -81,8 +81,8 @@ EDA and dashboard of the top 100 public companies in the USA by revenue using Ph
 ## 📂 Project Files
 
 📁 public-companies-analysis
-* 🔗[Click here to view/download my dashboard](./Top_100_company_dashboard.png)
-* Cleaned_Data.csv # Processed dataset
+* 🔗[Click here to view dashboard](https://github.com/MoyeMotunrayo4/CodeAlpha_Top_100_USA_companies/blob/main/Top%20100%20company%20dashboard.png)
+* Cleaned_Data.csv # Processed dataset[Click to view dataset](
 *  README.md # Project documentation
 
 
