@@ -83,7 +83,7 @@ EDA and dashboard of the top 100 public companies in the USA by revenue using Ph
 📁 public-companies-analysis 
 *  Extracted Phyton file: [Click here ](https://github.com/MoyeMotunrayo4/CodeAlpha_Top_100_USA_companies/blob/main/Company%20Scrapped%20.ipynb)
 * 🔗[Click here to view dashboard](https://github.com/MoyeMotunrayo4/CodeAlpha_Top_100_USA_companies/blob/main/Top%20100%20company%20dashboard.png)
-* Cleaned_Data.csv # Processed dataset
+* Cleaned_Data.csv # [Processed dataset](https://github.com/MoyeMotunrayo4/CodeAlpha_Top_100_USA_companies/blob/main/Top%20100%20US%20companies.pbix)
 *  README.md # Project documentation
 
 
