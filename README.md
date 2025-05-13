@@ -1,9 +1,6 @@
 # CodeAlpha_Top_100_USA_companies
 EDA and dashboard of the top 100 public companies in the USA by revenue using Phyton and Power BI.
 
-This project provides a detailed analysis of the **top 100 public companies in the United States**, focusing on revenue, industry performance, and geographic distribution.
-
-
 ---
 
 ## 🧭 Project Overview
@@ -22,10 +19,11 @@ This project provides a detailed analysis of the **top 100 public companies in t
 ## 🧠 Key Insights
 
 -  **Texas** and **New York** lead in total company revenue.
--  **Financials** and **Retail** industries show the strongest revenue growth.
+-  **Financials** and **Technology** industries show the strongest revenue growth.
 -  **Food Industry** and **Infotech** industries are experiencing negative growth.
 -    Industries are distributed across states like **Texas**, **New York**, **California**, **Washington** etc.
 -    A geographic spread of industry locations, mainly concentrated in **North America**, with a few points in **Europe**.
+-    **Nvidia** stands out with exceptionally high revenue growth compared to others like **Goldman Sachs**, **Citigroup**, and **JP Morgan Chase**.
 
 ---------
 
@@ -57,9 +55,12 @@ This project provides a detailed analysis of the **top 100 public companies in t
     
     Top 10 Cities by Total Revenue
     A bar chart showing the cities with the highest cumulative company revenue.
+
+    Count of Employees by Industry
+    A donut chart showing the industry with the highest number of employees.
     
     Top 5 Industries by Avg Revenue Growth
-    Industries showing the strongest revenue growth increases.
+    Industries showing the strongest revenue increase.
 
     Bottom 5 Industries by Avg Revenue Growth
     Industries with declining or minimal revenue growth.
